@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-4": {"catatin\\": "app/"}
+    },
+    "require": {
+        "nesbot/carbon": "^2.5"
+    }
+}
